@@ -1,0 +1,22 @@
+0 bird of paradise
+1 bougainvillea
+2 cyclamen
+3 dahlia
+4 daisy
+5 dandelion
+6 foxglove
+7 frangipani
+8 gentian
+9 geranium
+10 hibiscus
+11 iris
+12 lily
+13 marigold
+14 orchid
+15 passion flower
+16 petunia
+17 rose
+18 sunflower
+19 tulip
+20 wallflower
+21 watercress
