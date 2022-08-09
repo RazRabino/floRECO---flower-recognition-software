@@ -9,7 +9,7 @@ including simple and convenient to use GUI,<br> floRECO can recognise flowers fr
 cyclamen, dahlia, daisy, dandelion, foxglove, frangipani, gentian, geranium, hibiscus, iris, lily, marigold, orchid, passion flower
 petunia, rose, sunflower, tulip, wallflower, watercress • with high accuracy
 
-in our project we used the Keras, TensorFlow, TeachAble Machine open-source software libraries and software,<br>
+in our project we used the Keras, Tkinter, TensorFlow, TeachAble Machine open-source software libraries and software,<br>
 and harvard dataverse flowers images collection, Hackathon Blossom flower images collection, tensorFlow images collection.
 
 [tensorFlow](https://www.tensorflow.org/) •
